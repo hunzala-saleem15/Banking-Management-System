@@ -1,6 +1,4 @@
 # Banking-Management-System
- 
-# Banking Management System
 
 ## Overview
 The **Banking Management System** is a Java-based application designed to manage banking operations, including account creation, deposit and withdrawal of funds, balance inquiry, transaction history, and administrative control. This system is built using **Object-Oriented Programming (OOP)** principles and utilizes **file handling** for data storage.
